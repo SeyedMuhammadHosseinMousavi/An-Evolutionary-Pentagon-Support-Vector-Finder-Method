@@ -60,8 +60,8 @@ Below is a detailed explanation of the method's steps.
 
 ![Evolutionary PSV](https://github.com/user-attachments/assets/32f5bcca-2a1a-4c9f-bac9-9bf0919739bd)
 
-![image](https://github.com/user-attachments/assets/8a8eaeb9-c073-4b4a-981d-c8abe99c54b9)
+![image](https://github.com/user-attachments/assets/582de466-e187-4409-980e-e83534eef167)
 
-- ### DOI:
-- [https://www.sciencedirect.com/science/article/pii/S0957417420301093](https://doi.org/10.1016/j.eswa.2020.113284)
+- ### Link:
+- http://nectar.northampton.ac.uk/13190/1/Mousavi_Seyed_etal_Elsevier_2020_An_Evolutionary_Pentagon_Support_Vector_Finder_Method.pdf
   
