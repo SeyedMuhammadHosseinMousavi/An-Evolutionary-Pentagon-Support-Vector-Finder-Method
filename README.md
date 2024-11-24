@@ -2,7 +2,9 @@
 
 - ### Please Cite:
 - Mousavi, Seyed Muhammad Hossein, Vincent Charles, and Tatiana Gherman. "An Evolutionary Pentagon Support Vector Finder Method." Expert Systems with Applications 150 (2020): 113284.
-
+- ### Link to the paper:
+- https://www.sciencedirect.com/science/article/pii/S0957417420301093
+  
 <div align="justify">
 This method is designed to improve classification tasks by reducing data size, removing outliers, 
 and identifying support vectors using evolutionary algorithms and geometric computations. 
@@ -58,5 +60,8 @@ Below is a detailed explanation of the method's steps.
 
 ![Evolutionary PSV](https://github.com/user-attachments/assets/32f5bcca-2a1a-4c9f-bac9-9bf0919739bd)
 
-![image](https://github.com/user-attachments/assets/b642394d-408b-490b-a086-b3d09e946cd0)
+![image](https://github.com/user-attachments/assets/8a8eaeb9-c073-4b4a-981d-c8abe99c54b9)
 
+- ### DOI:
+- [https://www.sciencedirect.com/science/article/pii/S0957417420301093](https://doi.org/10.1016/j.eswa.2020.113284)
+  
